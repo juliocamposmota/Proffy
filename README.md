@@ -32,7 +32,16 @@
 
 Landing page
 
-<img src="https://github.com/juliocamposmota/shop-P9/blob/main/github/image1.JPG" width=550 heigth=450>
+<img src="https://github.com/juliocamposmota/Proffy/blob/main/github/image-landingpage1.JPG" width=650 heigth=550>
+
+Study page
+
+<img src="https://github.com/juliocamposmota/Proffy/blob/main/github/image-estudar1.JPG" width=650 heigth=550>
+
+Give class page
+
+<img src="https://github.com/juliocamposmota/Proffy/blob/main/github/image-daraula1.JPG" width=650 heigth=550>
+<img src="https://github.com/juliocamposmota/Proffy/blob/main/github/image-daraula2.JPG" width=650 heigth=550>
 
 ## Como rodar a aplicação :arrow_forward:
 
@@ -49,7 +58,7 @@ Landing page
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Time responsável pelo desenvolvimento deste projeto:
+Time responsável pelo desenvolvimento deste projeto: <br>
 (Logicamente só foi possível desenvolver essa obra vendo as aulas do <sub>Mayk Brito</sub> (https://github.com/maykbrito))
 
 [<img src="https://avatars3.githubusercontent.com/u/68956245?s=460&u=b7f1c48f3332d7dc29f2ec71c70116c6efff47d0&v=4" width=115><br><sub>Júlio Mota</sub>](https://github.com/juliocamposmota)
