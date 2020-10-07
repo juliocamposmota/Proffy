@@ -55,10 +55,14 @@ Give class page
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
+- [JavaScript]
+- [Node JS]
+- [Package Json]
+- [GitBash]
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Time responsável pelo desenvolvimento deste projeto: <br>
+Time responsável pelo desenvolvimento deste projeto: <br> <br>
 (Logicamente só foi possível desenvolver essa obra vendo as aulas do <sub>Mayk Brito</sub> (https://github.com/maykbrito))
 
 [<img src="https://avatars3.githubusercontent.com/u/68956245?s=460&u=b7f1c48f3332d7dc29f2ec71c70116c6efff47d0&v=4" width=115><br><sub>Júlio Mota</sub>](https://github.com/juliocamposmota)
